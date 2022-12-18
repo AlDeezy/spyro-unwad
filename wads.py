@@ -96,8 +96,8 @@ filenames = [
     '40_gnastys_loot.wad',
 
     # Two empty files of unknown purpose
-    'empty_1.wad',
-    'empty_2.wad',
+    # 'empty_1.wad',
+    # 'empty_2.wad',
 
     # Overlay for the credits related stuff
     'credits.ovl',
