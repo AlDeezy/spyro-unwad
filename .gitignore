@@ -1,3 +1,4 @@
-file_*
+out*
 spyro-unwad
 WAD.WAD
+__pycache__*
